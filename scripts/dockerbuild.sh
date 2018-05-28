@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# remove git history
+# build docker container
 docker build -t da-project .

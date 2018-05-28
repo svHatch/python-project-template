@@ -1,7 +1,7 @@
-Azavea Data Analytics team python project template
+PrecisionHawk Data Services Analytics team python project template
 ==============================
 
-A file structure template, development environment and rule set for python data analysis projects on Azavea's Data Analytics Team
+A file structure template, development environment and rule set for python data analysis projects on PrecisionHawk's Geospatial Analytics Team
 
 #### Requirements:
 
@@ -52,7 +52,7 @@ Project Organization
     │
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details (currently not configured)
     │
-    ├── guide              <- A set of markdown files with documented best practices, guidelines and rools for collaborative projects
+    ├── guide              <- A set of markdown files with documented best practices, guidelines and rules for collaborative projects
     │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
